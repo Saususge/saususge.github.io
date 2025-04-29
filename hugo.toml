@@ -6,11 +6,11 @@ theme = "PaperMod"
 # 기본 params 설정 확장
 [params]
   # 메인 홈페이지 설정
-  profileMode = {enabled = false}
-  homeInfoParams = {
-    Title = "Saususge's Dev Blog",
-    Content = "개발 관련 정보와 경험을 공유하는 블로그입니다."
-  }
+  profileMode.enabled = false
+  
+  [params.homeInfoParams]
+  Title = "Saususge's Dev Blog"
+  Content = "개발 관련 정보와 경험을 공유하는 블로그입니다."
   
   # 기본 테마 및 디자인 설정
   defaultTheme = "auto"
