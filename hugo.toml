@@ -6,22 +6,6 @@ theme = "PaperMod"
 
 [params]
 
-  [params.profileMode]
-    enabled = true
-    title = "Saususge"
-    subtitle = "그래픽스 프로그래머를 꿈꾸며"
-    imageUrl = "images/profile.avif"
-    imageWidth = 120
-    imageHeight = 120
-    imageTitle = "Saususge"
-    [[params.profileMode.buttons]]
-      name = "Posts"
-      url = "/posts"
-    [[params.profileMode.buttons]]
-      name = "About"
-      url = "/about"
-
-
   [[params.socialIcons]]
     name = "github"
     url = "https://github.com/saususge" # 본인 GitHub 프로필 링크
