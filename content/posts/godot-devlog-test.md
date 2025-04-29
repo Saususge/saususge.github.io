@@ -10,6 +10,11 @@ tags = ["Dev Log", "Godot"]
 godot test
 adasd
 asdaads
-```c
-hello
+
+```cpp
+// 예시 코드 블록
+void TestRaytracing() {
+    // ...
+}
 ```
+
